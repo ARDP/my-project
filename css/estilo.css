@@ -104,19 +104,17 @@ section.module.parallax h1{
 /*Aqui va la parte de diseño del corazon */
 .container2{
 	position: relative;
-	top: 100px;
+	top: 200px;
+
+	 text-align: center;
+	  font-weight: 100;
+ color: White;
+  font-size: 8em;
+  font-family: 'Exo 2';
 }
-.heart{transition: all 0.3;
+.heart{
+	transition: all 0.3;
 	color: #EA4646;
-}html {
-  background-color: #29282E;
-  color: White;
 }
 
-body {
-  font-family: 'Exo 2';
-  font-weight: 100;
-  text-align: center;
-  font-size: 8em;
-}
 @import url(https://fonts.googleapis.com/css?family=Exo+2:400,900,800,700,600,500,300,200,100);
